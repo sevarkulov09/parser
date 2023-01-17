@@ -1,0 +1,23 @@
+{
+  "403701002": "creditGold",
+  "403701000": "creditClassic",
+  "479091223": "visaGoldEXC",
+  "479091226": "visaInfiniteUZS",
+  "479091227": "visaInfinteUSD",
+  "414382006": "visaPlatUSAEmbassy",
+  "490844008": "visaBusinessUSD",
+  "414382005": "visaPlatUZSBREND",
+  "414381005": "visaGoldUZSBREND",
+  "414382004": "visaPlatUSDBREND",
+  "414381004": "visaGoldUSDBREND",
+  "414381001": "visaGoldUZS",
+  "414382007": "visaPlatinumINT",
+  "414381007": "visaGoldINT",
+  "514379001": "masterCardWorldElite",
+  "479091225": "visaPlatinumUZS",
+  "532154003": "masterCardGold",
+  "532154005": "MasterCardPlatinum",
+  "403701004": "visaPlatinumSolfy",
+  "532154001": "masterCardStandart",
+  "479091221": "visaClassicNEWUZS"
+}
